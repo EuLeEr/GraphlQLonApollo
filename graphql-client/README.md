@@ -7,6 +7,6 @@ Run:
   - npm install
   - npm start
 
-- [CodeSandBox]: https://codesandbox.io/s/grapgql-request-q2gom?fontsize=14
+- [CodeSandBox](https://codesandbox.io/s/grapgql-request-q2gom?fontsize=14)
 
   
